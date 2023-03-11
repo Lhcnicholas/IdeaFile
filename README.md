@@ -24,4 +24,4 @@
 
 安装时，软件会自动让你配置，如果手抖关掉了，在worflow界面找到`Configure Workflow`也可以进行配置。
 
-![image-20230311165833019](/Users/lhc/Library/Application Support/typora-user-images/image-20230311165833019.png)
+![配置](./images/howtoconfig.png)
